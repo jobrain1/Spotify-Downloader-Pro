@@ -10,6 +10,18 @@ Ein einfaches GUI-Tool zum Herunterladen von Songs von Spotify mit `spotdl`. Die
 - **Dark Mode** – Umschaltbar in den Einstellungen.
 - **Einstellungen speichern** – Dark Mode und Standard-Speicherort bleiben gespeichert.
 
+---
+
+### 🔧 Erweiterungen & Plugins
+
+Dieses Projekt erlaubt und fördert die Entwicklung von Plugins und Erweiterungen. Entwickler dürfen eigene Module erstellen und diese unter derselben oder einer kompatiblen Lizenz veröffentlichen.
+
+Wenn du ein Plugin erstellst, freuen wir uns über eine Verlinkung oder einen Beitrag in der Community!
+
+🌟 **Viel Spaß beim Entwickeln!** 🚀
+
+---
+
 ## 🛠️ Installation
 
 ### Voraussetzungen
